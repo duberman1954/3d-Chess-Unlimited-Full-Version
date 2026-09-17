@@ -236,4 +236,4 @@ This repository serves as the official landing page for **3D Chess Unlimited**. 
 **Get the most recent version of 3D Chess Unlimited today!**
 
 ---
-**Last updated:** 2026-09-16 23:29:28 UTC
+**Last updated:** 2026-09-17 03:05:40 UTC
